@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.container{
+    background-color: aquamarine;
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.body{
+    padding: 10px;
+    border: 5px, solid;
+}
